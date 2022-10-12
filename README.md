@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I am Tarun 
+
+I am the student of Brindavan college of engineering.
 <!--
 **Tarunyl/Tarunyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
